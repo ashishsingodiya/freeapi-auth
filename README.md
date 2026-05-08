@@ -3,7 +3,7 @@
 A simple authentication UI built with HTML, CSS, and vanilla JavaScript using the FreeAPI Authentication Module. It supports register, login, logout, and current-user profile retrieval with basic loading states and status messages.
 
 ## Live Demo
-[freeapi-auth.ashish.pro](freeapi-auth.ashish.pro)
+[freeapi-auth.ashish.pro](https://freeapi-auth.ashish.pro)
 
 freeapi.vercel.app
 
